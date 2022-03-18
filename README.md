@@ -1,6 +1,6 @@
 # kanban-challenge
 
-## brief
+## 📕 Brief
 Working in your teams from the Rapid Prototyping challenge:
 
 + Create a kanban board with some degree of automation
@@ -14,7 +14,7 @@ Working in your teams from the Rapid Prototyping challenge:
 + Working solo:
 
 Complete the hello_github prework exercise if you have not already
-## What We Learnt
+##  💭 What We Learnt
 - How to fork a repository and update it from the main repo
 - You can't fork your own repository
 - How to make a Kanban board on GitHub Projects and automate the columns
