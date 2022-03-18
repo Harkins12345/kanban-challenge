@@ -14,3 +14,8 @@ Working in your teams from the Rapid Prototyping challenge:
 + Working solo:
 
 Complete the hello_github prework exercise if you have not already
+## What We Learnt
+- How to fork a repository and update it from the main repo
+- You can't fork your own repository
+- How to make a Kanban board on GitHub Projects and automate the columns
+- Add pull request to kanban board
